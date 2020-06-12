@@ -11,13 +11,13 @@
 
 # Introduction
 
-Bootstrap and package your project with Angular 9 and Electron 8 (Typescript + SASS + Hot Reload) for creating Desktop applications.
+Bootstrap and package your project with Angular 9 and Electron 9 (Typescript + LESS + Hot Reload) for creating Desktop applications.
 
 Currently runs with:
 
-- Angular v9.1.4
-- Electron v8.2.5
-- Electron Builder v22.6.0
+- Angular v9.1.11
+- Electron v9.0.3
+- Electron Builder v22.7.0
 
 With this sample, you can :
 
@@ -34,7 +34,7 @@ With this sample, you can :
 Clone this repository locally :
 
 ``` bash
-git clone https://github.com/maximegris/angular-electron.git
+git clone https://github.com/Y2zz/angular-electron.git
 ```
 
 Install dependencies with npm :
@@ -93,7 +93,7 @@ Maybe you want to execute the application in the browser with hot reload ? Just 
 - Angular 6 & Electron 3 : Branch [angular6](https://github.com/maximegris/angular-electron/tree/angular6)
 - Angular 7 & Electron 3 : Branch [angular7](https://github.com/maximegris/angular-electron/tree/angular7)
 - Angular 8 & Electron 7 : Branch [angular8](https://github.com/maximegris/angular-electron/tree/angular8)
-- Angular 9 & Electron 8 : (master)
+- Angular 9 & Electron 9 : (master)
 
 [build-badge]: https://travis-ci.org/maximegris/angular-electron.svg?branch=master&style=style=flat-square
 [build]: https://travis-ci.org/maximegris/angular-electron
